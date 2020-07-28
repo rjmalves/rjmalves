@@ -1,16 +1,14 @@
-### Hi there 👋
+## Rogerio Alves
 
-<!--
-**rjmalves/rjmalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerio-alves-22b678153/)](https://www.linkedin.com/in/rogerio-alves-22b678153/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.linkedin.com/in/rogerio-alves-22b678153/)](https://www.linkedin.com/in/rogerio-alves-22b678153/) 
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Education:** Bsc. & Msc. Electrical Engineering @ UFES 📚
+- **Working:** Cloud Software Architecture 📐 | Golang & Python Dev. 💻 | Kafka 📨 | Docker 🐋 | k8s 📦
+- **Learning:** Linux Engineering 🔢 | Deep Reinforcement Learning 🧠 | 5G Networks 📱
+- **Hobbies:** Languages 🇧🇷 & 🇺🇸 & 🇪🇸 & 🇯🇵 | Music 🎹 & 🎸
+- **Ask me anything!** 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=rjmalves&show_icons=true)
