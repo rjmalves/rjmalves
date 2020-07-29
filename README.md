@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerio-alves-22b678153/)](https://www.linkedin.com/in/rogerio-alves-22b678153/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rogerioalves.ee/)](https://medium.com/@rogerioalves.ee/) 
+[![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white&link=https://hub.docker.com/u/rjmalves)](https://hub.docker.com/u/rjmalves) 
 
 ## About
 
