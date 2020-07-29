@@ -1,7 +1,7 @@
 ## Rogerio Alves
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerio-alves-22b678153/)](https://www.linkedin.com/in/rogerio-alves-22b678153/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.linkedin.com/in/rogerio-alves-22b678153/)](https://www.linkedin.com/in/rogerio-alves-22b678153/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rogerioalves.ee/)](https://medium.com/@rogerioalves.ee/) 
 
 ## About
 
