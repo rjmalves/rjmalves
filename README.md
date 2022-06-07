@@ -7,8 +7,8 @@
 ## About
 
 - **Education:** Bsc. & Msc. Electrical Engineering @ UFES 📚
-- **Working:** Cloud Software Architecture 📐 | Golang & Python Dev. 💻 | Kafka 📨 | Docker 🐋 | k8s 📦
-- **Learning:** Linux Engineering 🔢 | Deep Reinforcement Learning 🧠 | 5G Networks 📱
+- **Working:** Cloud Software Architecture 📐 | Golang & TypeScript & Python Dev. 💻 | Kafka 📨 | Docker 🐋 | k8s 📦 | AWS | MLOps
+- **Learning:** Linux Engineering 🔢 | Deep Reinforcement Learning 🧠
 - **Hobbies:** Languages 🇧🇷 & 🇺🇸 & 🇪🇸 & 🇯🇵 | Music 🎹 & 🎸
 - **Ask me anything!** 
 
