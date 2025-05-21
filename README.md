@@ -7,7 +7,7 @@
 ## About
 
 - **Education:** Bsc. & Msc. Electrical Engineering @ UFES 📚
-- **Working:** Cloud Software Architecture 📐 | Julia & Python Dev. 💻 | HPC | AWS | MLOps @ ONS
+- **Working:** Stochastic Optimization | Timeseries Forecasting | Julia, Python, Rust Dev. 💻 | HPC | AWS | MLOps @ ONS
 - **Learning:** Optimization 🔢 | Deep Reinforcement Learning 🧠
 - **Hobbies:** Languages 🇧🇷 & 🇺🇸 & 🇪🇸 & 🇯🇵 | Music 🎹 & 🎸
 - **Ask me anything!** 
